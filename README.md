@@ -1,3 +1,3 @@
 # Ai-Project
-##A basic ai project with the goal of making an ai that can do raven's progressive using python 
-###Current status = Just started
+##A basic knowledge based artificial intelligence  project with the goal of making an ai that can do raven's progressive using python.
+###Current status = Just started no work yet just a image.
