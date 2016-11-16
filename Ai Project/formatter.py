@@ -15,7 +15,7 @@ first.split("\n")
 dec1.insert(0,first.split("\n"))
 
 
-dec2.append(two)
+dec2.insert(0,first.split("\n"))
 #print test1
 
 
@@ -23,9 +23,9 @@ dec2.append(two)
 
 
 del dec1[0][1]
-
+del dec2[0][1]
 print dec1
-#print dec2
-#print(cmp(dec2,dec1))
+print dec2
+print(cmp(dec1,dec2))
 read.close()
 read1.close()
