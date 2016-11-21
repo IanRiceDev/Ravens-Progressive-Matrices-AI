@@ -1,8 +1,13 @@
 
 read = open ('ai.txt','r')
 read1 = open ('ai.txt','r')
-first = read.readline()
-first =  read.readline()
+readcount1 = 0
+while (readcount1 < 2):
+    first = read.readline()
+    readcount1 += 1
+
+
+
 two = read1.readline()
 
 dec1 = []
@@ -12,7 +17,7 @@ first.split("\n")
 #test.
 #test1 = dec1.li
 
-dec1.insert(0,first.split("\n"))
+dec1.insert(0,two.split("\n"))
 
 
 dec2.insert(0,first.split("\n"))
