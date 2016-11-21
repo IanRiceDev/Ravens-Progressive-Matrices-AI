@@ -10,27 +10,36 @@ while (readcount1 < 2):
 
 two = read1.readline()
 
-dec1 = []
+dec = []
 dec2 = []
 #print test.split("\n")
-first.split("\n")
+#two.split()
 #test.
 #test1 = dec1.li
+#dec1.insert(0,two.split(" "))
 
-dec1.insert(0,two.split("\n"))
+dec.insert(1,two.split("."))
+print dec.__str__()
+
+test = dec.pop()
+
+print dec == test
+
+ #test.split("\n")
+print test.__len__()
+#dec1[0].split("\n")
+print test
+#dec2.insert(0,first.split("\n"))
+#print dec1
 
 
-dec2.insert(0,first.split("\n"))
-#print test1
 
 
 
-
-
-del dec1[0][1]
-del dec2[0][1]
-print dec1
-print dec2
-print(cmp(dec1,dec2))
+#del dec1[0][2]
+#del dec2[0][1]
+print dec
+#print dec2
+#print(cmp(dec1,dec2))
 read.close()
 read1.close()
