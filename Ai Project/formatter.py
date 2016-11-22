@@ -18,17 +18,18 @@ dec2 = []
 #test1 = dec1.li
 #dec1.insert(0,two.split(" "))
 
-dec.insert(1,two.split("."))
+dec.insert(0,two.split(".",))
 print dec.__str__()
+print dec.__len__()
+dec.insert(1,two.split("\n"))
+dec.index("cube")
 
-test = dec.pop()
 
-print dec == test
 
  #test.split("\n")
-print test.__len__()
+
 #dec1[0].split("\n")
-print test
+
 #dec2.insert(0,first.split("\n"))
 #print dec1
 
