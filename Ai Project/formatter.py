@@ -11,7 +11,7 @@ while (readcount1 < 2):
 
 two = read1.readline()
 
-dec = [('a', two.split(".")),('b', 1),('c', 2),('d', 3),('e', 4)]
+dec = [('1', two.split(".")),('b', 1),('c', 2),('d', 3),('e', 4)]
 
 
 
@@ -20,8 +20,8 @@ dec = [('a', two.split(".")),('b', 1),('c', 2),('d', 3),('e', 4)]
 
 dec1 = dict(dec)
 print dec1#
-print dec1['a']#
-list1 = list(dec1['a'])
+print dec1['1']#
+list1 = list(dec1['1'])
 print list1#
 
 
@@ -42,6 +42,7 @@ print list1Lang#
 
 del list1[list1Lang - 1]
 print list1#
+dec1.update(dict(list1))
 
 
 
