@@ -1,5 +1,5 @@
-read = open ('ai.txt','r')
-read1 = open ('ai.txt','r')
+read = open ('problem1.txt','r')
+read1 = open ('problem1.txt','r')
 
 readcount1 = 0
 

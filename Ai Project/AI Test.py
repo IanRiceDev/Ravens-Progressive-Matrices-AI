@@ -1,2 +1,2 @@
 print("Answer B")
-#input()
+input()

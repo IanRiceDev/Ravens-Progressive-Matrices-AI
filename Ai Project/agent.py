@@ -1,3 +1,6 @@
 from formatter import *
 
-print(cmp(list1[0],list1[1]))
+print "\n" * 9
+print list1[0]
+print list1[1]
+input()

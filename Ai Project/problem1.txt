@@ -1,4 +1,4 @@
-cube.filled
+cube.filled.triangle.emptey
 cube.filled
 cube.emptey
 triangle.filled
