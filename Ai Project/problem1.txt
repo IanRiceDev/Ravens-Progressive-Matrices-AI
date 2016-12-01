@@ -1,0 +1,5 @@
+cube.filled
+cube.filled
+cube.emptey
+triangle.filled
+triangle.emptey

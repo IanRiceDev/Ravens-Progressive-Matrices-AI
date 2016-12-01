@@ -4,6 +4,3 @@
 #dec2.update(dec1)
 #listdic = dict(list)
 #print(listdic)
-list3 = [3,4,5,"find"]
-
-list

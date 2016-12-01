@@ -1,3 +1,3 @@
 from formatter import *
 
-print(cmp(dec1,dec2))
+print(cmp(list1[0],list1[1]))

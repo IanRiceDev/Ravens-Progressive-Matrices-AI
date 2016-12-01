@@ -48,16 +48,11 @@ print list1#
 
 x = 0
 dec1.clear()
-dec1 = {x:0}
-while  x > list1Lang:
 
-    dec1.update({x:list1[list1Lang]})
-    x += x
-    if  x > list1Lang:
-        break
+
+
 
 #print cmp(dec1[1],dec1[2])#
-print dec1#
 
 
 
