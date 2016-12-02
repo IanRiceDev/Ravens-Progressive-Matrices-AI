@@ -2,8 +2,8 @@ read = open ('problem1.txt','r')
 read1 = open ('problem1.txt','r')
 
 readcount1 = 0
-
-while (readcount1 < 2):
+first = read.readline()
+while (readcount1 < 1):
     first = read.readline()
     readcount1 += 1
 
@@ -52,7 +52,6 @@ dec1.clear()
 
 
 
-#print cmp(dec1[1],dec1[2])#
 
 
 

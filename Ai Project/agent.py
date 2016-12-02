@@ -1,6 +1,9 @@
 from formatter import *
 
+x = 0
 print "\n" * 9
-print list1[0]
-print list1[1]
+while x < list1Lang:
+
+    print list1[x]
+    x += 1
 input()
