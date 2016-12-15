@@ -40,7 +40,7 @@ print list1#
 list1Lang = list1.__len__()
 #declares Variable equal to the length of list1
 list2 = str(list1[list1Lang - 1]).split('\n')
-
+#declares Variable equal to the string value of list1 with index of the length of list1 - 1
 print list2#
 
 list1.insert(list1Lang - 1,list2[0])
