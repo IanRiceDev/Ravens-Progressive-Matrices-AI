@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8391410-9c8e-4422-b7b2-cf99d51dc5b6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ML/ml.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rpmAi/agent.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rpmAi/dataPrep.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rpmAi/grader.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ai/test.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ai/agent.py" afterPath="$PROJECT_DIR$/ai/agent.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ai/formatter.py" afterPath="$PROJECT_DIR$/ai/formatter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ai/problem1.txt" afterPath="$PROJECT_DIR$/ai/problem1.txt" />
-    </list>
+    <list default="true" id="f8391410-9c8e-4422-b7b2-cf99d51dc5b6" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
