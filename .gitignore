@@ -49,4 +49,4 @@ crashlytics-build.properties
 fabric.properties
 *.iml
 .idea/inspectionProfiles/profiles_settings.xml
-*.xml
+
