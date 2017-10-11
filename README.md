@@ -3,4 +3,4 @@
 ### Bugs knowen
 * Everything
 ### Goal(s)
-Making an ai that can do Raven's Progressive Matrices using python.
+* Making an artificial intelligence that can do Raven's Progressive Matrices.
