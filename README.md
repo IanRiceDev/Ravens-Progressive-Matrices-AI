@@ -1,3 +1,6 @@
-# Ai-Project
-## A basic knowledge based artificial intelligence  project with the goal of making an ai that can do raven's progressive using python.
-### Current status = Testing
+# Ravens-Progressive-Matrices-AI
+## Project status: Testing
+### Bugs knowen
+* Everything
+### Goal(s)
+Making an ai that can do Raven's Progressive Matrices using python.
