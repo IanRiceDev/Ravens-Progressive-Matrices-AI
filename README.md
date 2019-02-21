@@ -1,5 +1,5 @@
 # Ravens-Progressive-Matrices-AI
-## Project status: Testing
+## Project status: Temporarily Abandon
 ### Bugs knowen
 * Everything
 ### Goal(s)
